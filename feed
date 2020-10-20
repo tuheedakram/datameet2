@@ -12,7 +12,7 @@
 	<atom:link href="https://tuheedakram.github.io/datameet2/feed" rel="self" type="application/rss+xml" />
 	<link>https://tuheedakram.github.io/datameet2</link>
 	<description>Add Meta Description Here</description>
-	<lastBuildDate>Tuesday, 20 October 2020 13:29:01 +0000</lastBuildDate>
+	<lastBuildDate>Tuesday, 20 October 2020 14:49:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>	
@@ -31,6 +31,34 @@
 by
 Posted on 20-10-2020 01:29 PM
 qeqwe
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+
+<item>
+		<title>data here 2</title>
+		<link>https://tuheedakram.github.io/datameet2/SEO/data-here-2.html</link>
+		<pubDate>Tuesday, 20 October 2020 13:30:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://tuheedakram.github.io/datameet2/SEO/data-here-2.html</guid> 
+		<description><![CDATA[data here 2
+by
+Posted on 20-10-2020 01:30 PM
+qeqwe
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+
+<item>
+		<title>Cememt</title>
+		<link>https://tuheedakram.github.io/datameet2/SEO/Cememt.html</link>
+		<pubDate>Tuesday, 20 October 2020 14:49:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://tuheedakram.github.io/datameet2/SEO/Cememt.html</guid> 
+		<description><![CDATA[Cememt
+by
+Posted on 20-10-2020 02:49 PM
+this is to publis the site
 ]]></description>
        <enclosure url="#" length="0" type="image" /></item>
 <!--feeditem-->	
