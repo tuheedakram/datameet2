@@ -12,7 +12,7 @@
 	<atom:link href="https://tuheedakram.github.io/datameet2/feed" rel="self" type="application/rss+xml" />
 	<link>https://tuheedakram.github.io/datameet2</link>
 	<description>Add Meta Description Here</description>
-	<lastBuildDate>Tuesday, 20 October 2020 14:58:01 +0000</lastBuildDate>
+	<lastBuildDate>Tuesday, 20 October 2020 15:01:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>	
@@ -73,6 +73,20 @@ this is to publis the site
 by
 Posted on 20-10-2020 02:58 PM
 this is data we need to speak for and we cand go to site
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+
+<item>
+		<title>data site need special</title>
+		<link>https://tuheedakram.github.io/datameet2/SEO/data-site-need-special.html</link>
+		<pubDate>Tuesday, 20 October 2020 15:01:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://tuheedakram.github.io/datameet2/SEO/data-site-need-special.html</guid> 
+		<description><![CDATA[data site need special
+by
+Posted on 20-10-2020 03:01 PM
+hwere&amp;nbsp;
 ]]></description>
        <enclosure url="#" length="0" type="image" /></item>
 <!--feeditem-->	
